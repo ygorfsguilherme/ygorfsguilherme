@@ -1,7 +1,5 @@
 ### Hello, guy :vulcan_salute:
 My name is ygor guilherme, i am live Brazil, years old 26th, i like programming.
-currently looking for a jobs for develop web.
-
 my hobbies listen to music, cook, read book, watch anime and movies.
 
 ### Contact Social Media
