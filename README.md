@@ -1,5 +1,5 @@
 ### Hello, guy :vulcan_salute:
-My name is ygor guilherme, i live in Brazil, years old 26th, i like programming.
+My name is ygor guilherme, i live in Brazil, Natal - RN, years old 26th, i like programming.
 my hobbies listen to music, read book, watch anime and movies.
 
 ## Contacts:
