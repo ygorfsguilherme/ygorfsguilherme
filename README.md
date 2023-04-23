@@ -13,12 +13,12 @@ Olá, eu sou Ygor Guilherme, um desenvolvedor de software com conhecimentos em J
 - Oracle Cloud Infrastructure
 
 ## Experiência Profissional
-One Helper na Comunidade One: Motivando e passando conhecimentos na área de tecnologia.
+- One Helper na Comunidade One: Motivando e passando conhecimentos na área de tecnologia.
 
 ## Educação
 - Cursando Bacharelado em Ciência da Computação
 ## Interesses
-Leitura de livros como "Clean Architecture" e "Java"
+- Leitura de livros como "Clean Architecture" e "Java"
 
 ## Contacts
 
@@ -31,6 +31,11 @@ Leitura de livros como "Clean Architecture" e "Java"
 - [Encut](https://github.com/ygorfsguilherme/encut): encutador de url
           
 ## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+<div style='display: flex'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" margin="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="38" height="38" margin="15"/>
+</div>
+
+
 
 ![Snake animation](https://github.com/ygorfsguilherme/ygorfsguilherme/blob/output/github-contribution-grid-snake.svg)
