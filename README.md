@@ -30,6 +30,7 @@ Olá, eu sou Ygor Guilherme, um desenvolvedor de software com conhecimentos em J
 ## Projetos
 - [Encut](https://github.com/ygorfsguilherme/encut): Encutador de url
 - [Lilita](https://github.com/ygorfsguilherme/portfolio-lilita): Um portfolio para uma educadora
+- [Mitask](https://github.com/ygorfsguilherme/mi-task): É uma ferramenta para criação de tarefas ou ideias
           
 ## Estou aprendendo
 <div style='display: flex'>
