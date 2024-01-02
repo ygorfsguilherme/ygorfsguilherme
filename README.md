@@ -34,7 +34,6 @@ Olá, eu sou Ygor Guilherme, um desenvolvedor de software com conhecimentos em J
           
 ## Estou aprendendo
 <div style='display: flex'>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" margin="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40" margin="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" margin="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="38" height="38" margin="15"/>
 </div>
