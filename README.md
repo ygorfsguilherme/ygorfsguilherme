@@ -1,5 +1,5 @@
 ## Hello, guy :vulcan_salute:
-Olá, eu sou Ygor Guilherme, um desenvolvedor de software com conhecimentos em Java, Spring Framework, React, TypeScript, MySQL e Oracle Cloud Infrastructure. Tenho 27 anos e atualmente estou cursando Ciência da Computação.
+Olá, eu sou Ygor Guilherme, um desenvolvedor de software com conhecimentos em Java, Spring Framework, React, TypeScript, MySQL e Oracle Cloud Infrastructure. Tenho 30 anos e atualmente estou cursando Ciência da Computação.
 
 ## Contatos
 
